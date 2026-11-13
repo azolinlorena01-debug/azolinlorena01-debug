@@ -18,7 +18,7 @@ Estou no começo da minha jornada em tecnologia, explorando principalmente o **d
 
 ### Projeto em destaque
 
-**[Painel de Bônus](https://github.com/azolinlorena01-debug/AutoService)**: sistema web de controle de agendamentos e cálculo de bonificação, com login por perfil, importação de planilhas e fechamento mensal.
+**[Painel de Bônus](https://github.com/lorena-mendes-azolin/AutoService)**: sistema web de controle de agendamentos e cálculo de bonificação, com login por perfil, importação de planilhas e fechamento mensal.
 
 ### Contato
 
