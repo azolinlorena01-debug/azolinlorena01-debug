@@ -1,6 +1,6 @@
 # Olá, eu sou a Lorena 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo, em Curitiba.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo.
 Estou no começo da minha jornada em tecnologia, explorando principalmente o **desenvolvimento web**.
 
 - 💡 Meu primeiro projeto nasceu de um problema real no meu trabalho: um sistema de agendamentos e bonificação para a minha equipe
