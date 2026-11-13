@@ -3,7 +3,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo, em Curitiba.
 Estou no começo da minha jornada em tecnologia, explorando principalmente o **desenvolvimento web**.
 
-- 💡 Meu primeiro projeto nasceu de um problema real no meu trabalho: um sistema de agendamentos e bonificação usado pela minha equipe
+- 💡 Meu primeiro projeto nasceu de um problema real no meu trabalho: um sistema de agendamentos e bonificação para a minha equipe
 - 📚 Estudando agora: JavaScript e Java
 - 🎯 Buscando: oportunidade na área de tecnologia
 
