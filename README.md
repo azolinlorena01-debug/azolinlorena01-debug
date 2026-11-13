@@ -5,7 +5,7 @@ Estou no começo da minha jornada em tecnologia, explorando principalmente o **d
 
 - 💡 Meu primeiro projeto nasceu de um problema real no meu trabalho: um sistema de agendamentos e bonificação usado pela minha equipe
 - 📚 Estudando agora: JavaScript e Java
-- 🎯 Buscando: oportunidade de estágio em tecnologia
+- 🎯 Buscando: oportunidade na área de tecnologia
 
 ### Tecnologias
 
