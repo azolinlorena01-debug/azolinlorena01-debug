@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo
 Estou no começo da minha jornada em tecnologia, explorando principalmente o **desenvolvimento web**.
 
 - 💡 Meu primeiro projeto nasceu de um problema real no meu trabalho: um sistema de agendamentos e bonificação usado pela minha equipe
-- 📚 Estudando agora: lógica de programação e Java
+- 📚 Estudando agora: JavaScript e Java
 - 🎯 Buscando: oportunidade de estágio em tecnologia
 
 ### Tecnologias
@@ -22,4 +22,4 @@ Estou no começo da minha jornada em tecnologia, explorando principalmente o **d
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-mendes-3611943a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-mendes-tech)
